@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Numbers</string>
+    <string name="action_settings">Settings</string>
+    <string name="random_button_text">Generate number</string>
+    <string name="until_hint">0-2,147,483,647</string>
+    <string name="from_hint">0-2,147,483,647</string>
+    <string name="numberField_initialValue">0</string>
+    <string name="title_text">Random Number Generator</string>
+    <string name="maximum_label_text">Maximum</string>
+    <string name="number_label_text">Your number:</string>
+    <string name="from_label_text">Minimum</string>
+</resources>
